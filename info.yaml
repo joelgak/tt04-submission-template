@@ -31,7 +31,7 @@ documentation:
     It is a Digital Key, a secret code needs to be inputted in order to get a 1 in the output.
     It is composed by a 4 FFD in a shift reg configuration with 3  two input and gates (configured as a 4 input and gate)
     If the proper sequence of data is inputted (0110) the output will be turned On.
-    Also all the outputs of the shiftreg are available to se how it works.
+    Also all the outputs of the shiftreg are available to se how it works..
 
 # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
   how_to_test:  |
